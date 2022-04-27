@@ -3,6 +3,7 @@ from collections import Counter
 from functools import reduce
 #1 Commit
 #2 Commit
+#3 Commit
 while True:
     cmd = input("Пункт: ")
 
